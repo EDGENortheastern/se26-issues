@@ -1,4 +1,8 @@
-# Name will go here
+# Hello Name App
+
+The Hello Name App is a simple, interactive web application that lets users enter their name and receive a personalised greeting. 
+Table 1 below outlines its functional, non-functional and security requirements. 
+
 
 | ID | Type | Requirement |
 |---|---|---|
