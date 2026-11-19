@@ -17,3 +17,5 @@
 | SR01 | Security | The application shall display entered names as plain text rather than interpreting them as HTML or JavaScript. |
 | SR02 | Security | The application shall not transmit entered names to external servers or store them permanently. |
 | SR03 | Security | The name input field shall reject names longer than 50 characters and treat whitespace-only entries as empty. |
+
+![](figma_proto.png)
